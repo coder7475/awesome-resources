@@ -503,7 +503,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Fundamentals of Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 - :video_camera: [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - :video_camera: [Computer Networking Course - Network Engineering (CompTIA Network+ Exam Prep)](https://www.youtube.com/watch?v=qiQR5rTSshw)
-- :video_camera: [Computer Networking Full Course- By Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+- :video*camera: [Computer Networking Full Course- By Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV*)
 
 ---
 
@@ -557,7 +557,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
 - :video_camera: [Best Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 - :video_camera: [Dynamic Programming Playlist - Interview Questions - Recursion - Tabulation - Striver - C++ - Java - DSA - Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
-
 
 ### Linear Algebra
 
@@ -820,6 +819,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Visualize JavaScript and Understand the Workflow](https://www.jsv9000.app/)
 - :bulb: [JavaScript Documentation](https://devdocs.io/javascript/)
 - :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- :green_book: [JavaScript Patterns](https://www.patterns.dev/)
 
 ---
 
@@ -1340,7 +1340,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 - :bulb: [Flaticon](https://www.flaticon.com)
-- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
+- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from.
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
 ### Open Source
